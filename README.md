@@ -20,7 +20,8 @@ const sumit = {
             js: ["node", "express"],
         },
         devOps: ["Ansible", "Docker🐳", "CHEF", "jenkin"],
-        databases: ["mongo"]
+        databases: ["mongo"],
+        markup: ["HTML","JSX","MarkDown"]
     },
     architecture: ["Serverless Architecture","Single page applications"],
     currentProject: "I am developing E-commerce website",
@@ -66,4 +67,4 @@ Windows                  17 hrs 5 mins       ███████████�
 ```
 <!--END_SECTION:waka-->
 
-**These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
+
