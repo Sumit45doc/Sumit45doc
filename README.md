@@ -47,16 +47,7 @@ const sumit = {
 <img src="https://raw.githubusercontent.com/Sumit45doc/Sumit45doc/main/icons/composer/composer-line-wordmark.svg" alt="composer" width="35" height="35"/> <img src="https://raw.githubusercontent.com/Sumit45doc/Sumit45doc/main/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="35" height="35"/> <img src="https://raw.githubusercontent.com/Sumit45doc/Sumit45doc/main/icons/codeigniter/codeigniter-plain-wordmark.svg" alt="codeigniter" width="35" height="35"/> <img src="https://raw.githubusercontent.com/Sumit45doc/Sumit45doc/main/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="35" height="35"/> <img src="https://raw.githubusercontent.com/Sumit45doc/Sumit45doc/main/icons/git/git-original.svg" alt="git" width="35" height="35"/> <img src="https://raw.githubusercontent.com/Sumit45doc/Sumit45doc/main/icons/github/github-original.svg" alt="git" width="35" height="35"/>
 
 
-## Find me here 
 
-<a href="http://website-rocker2102.vercel.app/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Sumit45doc/Sumit45doc/main/icons/chrome/chrome-original.svg" alt="Sumit45doc" height="35" width="35" /></a>
-<a href="https://www.linkedin.com/in/rocker2102/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Sumit45doc/Sumit45doc/main/icons/linkedin/linkedin-original.svg" alt="Sumit45doc" height="35" width="35" /></a>
-<a href="https://www.facebook.com/rocker2102" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Sumit45doc/Sumit45doc/main/icons/facebook/facebook-original.svg" alt="Sumit45doc" height="35" width="35" /></a>
-<a href="https://stackoverflow.com/users/11625355/rocker2102" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Sumit45doc/Sumit45doc/main/icons/stackoverflow/stackoverflow-original.svg" alt="Sumit45doc" height="35" width="35" /></a>
-<a href="https://www.hackerrank.com/Rocker2102" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Sumit45doc/Sumit45doc/main/icons/hackerrank/hackerrank-original.svg" alt="Sumit45doc" height="35" width="35" /></a>
-<a href="https://leetcode.com/rocker2102/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Sumit45doc/Sumit45doc/main/icons/leetcode/leetcode-iconscout-icon54.svg" alt="Sumit45doc" height="35" width="35" /></a>
-
-<br />
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
