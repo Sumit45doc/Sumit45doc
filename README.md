@@ -32,6 +32,33 @@ const sumit = {
 };
 ```
 
+
+## Programming and Scripting Langauges
+
+<img src="https://raw.githubusercontent.com/Sumit45doc/Sumit45doc/main/icons/c/c-original.svg" alt="c" width="35" height="35"/> <img src="https://raw.githubusercontent.com/Sumit45doc/Sumit45doc/main/icons/cplusplus/cplusplus-line.svg" alt="c++" width="35" height="35"/> 
+<img src="https://raw.githubusercontent.com/Sumit45doc/Sumit45doc/main/icons/java/java-original.svg" alt="java" width="35" height="35"/> <img src="https://raw.githubusercontent.com/Sumit45doc/Sumit45doc/main/icons/python/python-original.svg" alt="python" width="35" height="35"/> <img src="https://raw.githubusercontent.com/Sumit45doc/Sumit45doc/main/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/> <img src="https://raw.githubusercontent.com/Sumit45doc/Sumit45doc/main/icons/typescript/typescript-plain.svg" alt="typescript" width="35" height="35"/> <img src="https://raw.githubusercontent.com/Sumit45doc/Sumit45doc/main/icons/php/php-original.svg" alt="php" width="35" height="35"/> <img src="https://raw.githubusercontent.com/Sumit45doc/Sumit45doc/main/icons/html5/html5-original.svg" alt="html5" width="35" height="35"/> <img src="https://raw.githubusercontent.com/Sumit45doc/Sumit45doc/main/icons/css3/css3-original.svg" alt="css3" width="35" height="35"/>
+
+## Tools & Frameworks
+
+<img src="https://raw.githubusercontent.com/Sumit45doc/Sumit45doc/main/icons/visualstudio/visualstudio-code-plain.svg" alt="vscode" width="35" height="35"/> <img src="https://raw.githubusercontent.com/Sumit45doc/Sumit45doc/main/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="35" height="35"/> <img src="https://raw.githubusercontent.com/Sumit45doc/Sumit45doc/main/icons/mysql/mysql-original.svg" alt="mysql" width="35" height="35"/> <img src="https://raw.githubusercontent.com/Sumit45doc/Sumit45doc/main/icons/mongodb/mongodb-original.svg" alt="mongodb" width="35" height="35"/> <img src="https://raw.githubusercontent.com/Sumit45doc/Sumit45doc/main/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="35" height="35"/> <img src="https://raw.githubusercontent.com/Sumit45doc/Sumit45doc/main/icons/npm/npm-original-wordmark.svg" alt="npm" width="35" height="35"/>
+<img src="https://raw.githubusercontent.com/Sumit45doc/Sumit45doc/main/icons/reactjs/react-original.svg" alt="react" width="35" height="35"/> <img src="https://raw.githubusercontent.com/Sumit45doc/Sumit45doc/main/icons/material-ui/materialui-original.svg" alt="material-ui" width="35" height="35"/> 
+<img src="https://raw.githubusercontent.com/Sumit45doc/Sumit45doc/main/icons/express-js/express-original-wordmark.svg" alt="express" width="35" height="35"/> <img src="https://raw.githubusercontent.com/Sumit45doc/Sumit45doc/main/icons/electron/electron-original.svg" alt="electron" width="35" height="35"/> 
+ <img src="https://raw.githubusercontent.com/Sumit45doc/Sumit45doc/main/icons/jquery/jquery-original.svg" alt="jquery" width="35" height="35"/>
+<img src="https://raw.githubusercontent.com/Sumit45doc/Sumit45doc/main/icons/composer/composer-line-wordmark.svg" alt="composer" width="35" height="35"/> <img src="https://raw.githubusercontent.com/Sumit45doc/Sumit45doc/main/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="35" height="35"/> <img src="https://raw.githubusercontent.com/Sumit45doc/Sumit45doc/main/icons/codeigniter/codeigniter-plain-wordmark.svg" alt="codeigniter" width="35" height="35"/> <img src="https://raw.githubusercontent.com/Sumit45doc/Sumit45doc/main/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="35" height="35"/> <img src="https://raw.githubusercontent.com/Sumit45doc/Sumit45doc/main/icons/git/git-original.svg" alt="git" width="35" height="35"/> <img src="https://raw.githubusercontent.com/Sumit45doc/Sumit45doc/main/icons/github/github-original.svg" alt="git" width="35" height="35"/>
+
+
+## Find me here 
+
+<a href="http://website-rocker2102.vercel.app/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Sumit45doc/Sumit45doc/main/icons/chrome/chrome-original.svg" alt="Sumit45doc" height="35" width="35" /></a>
+<a href="https://www.linkedin.com/in/rocker2102/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Sumit45doc/Sumit45doc/main/icons/linkedin/linkedin-original.svg" alt="Sumit45doc" height="35" width="35" /></a>
+<a href="https://www.facebook.com/rocker2102" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Sumit45doc/Sumit45doc/main/icons/facebook/facebook-original.svg" alt="Sumit45doc" height="35" width="35" /></a>
+<a href="https://stackoverflow.com/users/11625355/rocker2102" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Sumit45doc/Sumit45doc/main/icons/stackoverflow/stackoverflow-original.svg" alt="Sumit45doc" height="35" width="35" /></a>
+<a href="https://www.hackerrank.com/Rocker2102" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Sumit45doc/Sumit45doc/main/icons/hackerrank/hackerrank-original.svg" alt="Sumit45doc" height="35" width="35" /></a>
+<a href="https://leetcode.com/rocker2102/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Sumit45doc/Sumit45doc/main/icons/leetcode/leetcode-iconscout-icon54.svg" alt="Sumit45doc" height="35" width="35" /></a>
+
+<br />
+
+
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 
