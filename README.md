@@ -14,7 +14,9 @@ const sumit = {
         frontEnd: {
             js: ["Reactjs", "Nextjs"],
             css: "bootstrap",
-            cssPreprosser: "Sass"
+            cssPreprosser: "Sass",
+            stateManagement: "Redux toolkit",
+            CssFramework: "Materail UI"
         },
         backEnd: {
             js: ["node", "express"],
@@ -25,45 +27,11 @@ const sumit = {
     },
     architecture: ["Serverless Architecture","Single page applications"],
     currentProject: "I am developing E-commerce website",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    currentJob: {company: "staTwig", role: "MERN stack developer"},
+    funFact: "There are two ways to write error-free programs; only the third one works",
 };
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-
----
-<!--START_SECTION:waka-->
-**I'm an early 🐤** 
-
-```text
-🌞 Morning    5 commits     ███████░░░░░░░░░░░░░░░░░░   10.5% 
-🌆 Daytime    10 commits     ██████░░░░░░░░░░░░░░░░░░░   20.2% 
-🌃 Evening    15 commits    █████████░░░░░░░░░░░░░░░░   20.1%% 
-🌙 Night      70 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   49.3%
-
-```
-
-
-📊 **This week I spent my time on** 
-
-```text
-⌚︎ Timezone: Asia/Calcutta
-
-💬 Languages: 
-JavaScript               6 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   39.01% 
-Python                   2 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.28% 
-React                      2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.49% 
-Markdown                 2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   11.89% 
-nodejs                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.87%
-
-🔥 Editors: 
-vs code                 9 hrs 32 mins       ██████████████░░░░░░░░░░░   55.81% 
-PyCharm                  5 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   29.71%
-
-💻 Operating Systems: 
-Windows                  17 hrs 5 mins       █████████████████████████   100.0%
-
-```
-<!--END_SECTION:waka-->
 
 
