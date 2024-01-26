@@ -26,8 +26,8 @@ const sumit = {
         markup: ["HTML","JSX","MarkDown"]
     },
     architecture: ["Serverless Architecture","Single page applications"],
-    currentProject: "I am developing E-commerce website",
-    currentJob: {company: "staTwig", role: "MERN stack developer"},
+    currentProject: "School balance sheet website",
+    currentJob: {company: "Dassault Systems", role: "Frontend developer"},
     funFact: "There are two ways to write error-free programs; only the third one works",
 };
 ```
